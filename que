@@ -1,0 +1,52 @@
+1. Write a Java Program to implement array of objects
+
+2. Write a Java Program to implement Wrapper classes and their methods.
+
+3. Write a Java Program to implement inheritance and demonstrate use of method overriding.
+
+4. Write a Java Program to implement multilevel inheritance by applying various access controls to its data members and methods. *
+
+5. Write a Java program to demonstrate use of implementing interfaces.
+
+6. Write a Java program to implement the concept of importing classes from user defined package and creating packages
+
+
+
+1. Write a program to implement the concept of threading by implementing //Runnable Interface
+
+2. Write a program to create multiple threads by extending the Thread Class//
+
+3. Write a Java Program to demonstrate thread synchronization.
+
+4.   Write a Java PRogram to implement intertThread Communication
+/////////////////
+
+4. Write a Java program to implement the concept of Exception Handling using predefined exception
+
+5. Write a Java program to implement the concept of Exception Handling by creating user defined exceptions.
+
+6. Write a Java Program by using all the five keywords of exception handling
+////////////////////
+///////////////
+////////////////
+1. Write a Java program to implement the concept of Exception Handling using predefined exceptions using try-catch.
+
+2. Write a Java program to implement the concept of Exception Handling by creating user defined exceptions.
+
+3. Write a Java program to show the difference between throw and throws keywords of exception handling?
+
+4. Write a Java Program for Object Cloning?
+
+5. Write a Java Program for implementing nested and Inner classes?
+//////////////////
+/////////////
+////////////
+Write a Java Program for
+
+• demonstrating iterator       ///////
+
+• finding the min and max of set of integers using generic class    
+
+• sorting a set of integers, real and strings using generic class(you can use upperBound)
+
+• demonstrating a generic interface and generic constructor
